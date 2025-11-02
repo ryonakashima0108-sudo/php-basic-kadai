@@ -1,5 +1,5 @@
 <?php
-$kadai_007 = ['name' => 'orion', 'price' => 200, 'weight' => 160];
+$kadai_007 = ['name' => 'onion', 'price' => 200, 'weight' => 160];
 
 echo '<br>';
 
